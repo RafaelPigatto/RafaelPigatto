@@ -1,4 +1,10 @@
-# Portfolio
-Portfólio profissional
+# Portfolio Rafael Rodrigues Pigatto
 
-Alguns dos meus maiores projetos até o momento, faça o download dos arquivos e selecione o editor de codigo adequado, no caso de Webapplication selecione o Jetbrains rider e em python o vscode
+
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelPigatto&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPigatto&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
